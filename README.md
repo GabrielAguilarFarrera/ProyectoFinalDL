@@ -6,5 +6,6 @@ La tractografía por resonancia magnética ponderada en difusión, combinada con
 Link de TractSeg: https://github.com/MIC-DKFZ/TractSeg.git
 
 Link de los datos utilizados: 
+
 https://tractometer.org/ismrm2015/home/
 https://db.humanconnectome.org/app/template/Login.vm;jsessionid=666DB5400CD1CBB91F74052FAAB77445
